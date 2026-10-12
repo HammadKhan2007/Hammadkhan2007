@@ -9,7 +9,7 @@
   <br/><br/>
 
   <a href="https://github.com/HammadKhan2007">
-    <img src="https://komarev.com/ghpvc/?username=HammadKhan2007&label=Profile%20Views&color=00d2ff&style=flat-square" alt="Profile Views" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHammadKhan2007&label=PROFILE%20VIEWS&labelColor=%2324292e&countColor=%2300d2ff&style=flat-square" alt="Profile Views" />
   </a>
 
 </div>
@@ -87,7 +87,7 @@
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:asifkhanhamad12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/HammadKhan2007" target="_blank">
