@@ -71,7 +71,7 @@
 ### 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=HammadKhan2007&theme=tokyonight&no-frame=true&margin-w=15" alt="Hammad's GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=HammadKhan2007&theme=tokyonight&no-frame=true&margin-w=15&rank=SSS,S,A,B,C" alt="Hammad's GitHub Trophies" />
 </div>
 
 <div align="center">
