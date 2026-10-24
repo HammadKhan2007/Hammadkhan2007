@@ -3,13 +3,13 @@
   <h1>Hi 👋, I'm Muhammad Hammad</h1>
 
   <a href="https://github.com/HammadKhan2007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+AI+%26+ML+Engineer;Passionate+Python+Developer;Data+Analysis+%26+Visualization;Building+Intelligent+Machine+Learning+Models" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+AI+%26+ML+Engineer;Passionate+about+Data+%26+AI" alt="Typing introduction" />
   </a>
 
   <br/><br/>
 
   <a href="https://github.com/HammadKhan2007">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHammadKhan2007&label=PROFILE%20VIEWS&labelColor=%2324292e&countColor=%2300d2ff&style=flat-square" alt="Profile Views" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHammadKhan2007&label=PROFILE%20VIEWS&labelColor=%2324292e&countColor=%2300d2ff&style=flat-square" alt="Profile views" />
   </a>
 
 </div>
@@ -80,7 +80,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadKhan2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
   </p>
   <p>
-    <img src="https://streak-stats.demolab.com/?user=HammadKhan2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+    <img src="https://streak-stats.demolab.com/?user=HammadKhan2007&theme=tokyonight&hide_border=true&timezone=Asia%2FKarachi" alt="GitHub Streak" width="97%" />
   </p>
 </div>
 
