@@ -76,11 +76,14 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=HammadKhan2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hammad's GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadKhan2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HammadKhan2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Hammad's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadKhan2007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
   </p>
   <p>
     <img src="https://streak-stats.demolab.com/?user=HammadKhan2007&theme=tokyonight&hide_border=true&timezone=Asia%2FKarachi" alt="GitHub Streak" width="97%" />
+  </p>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HammadKhan2007&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" width="97%" />
   </p>
 </div>
 
